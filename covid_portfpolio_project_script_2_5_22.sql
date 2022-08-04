@@ -140,4 +140,4 @@ where dea.continent is not null
 --order by 2,3
 
 select *
-from Pop
+from PortfolioProject..Coviddeaths
